@@ -2,6 +2,7 @@ import React from 'react'
 import Sidebar from './sidebar'
 import Accordian from './accordian'
 import Counter from './counter'
+import './style.css'
 
 export default class App extends React.Component {
   state = {

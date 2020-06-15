@@ -6,3 +6,55 @@ button {
   border: 1px solid black;
   padding: 0.5rem;
 }
+body{
+  background-color: rgb(148, 205, 219);
+}
+/* Counter */
+.cbtn{
+  text-align: center;
+  margin: 0 auto;
+}
+/* Side bar */
+.flex{
+  display: flex;
+  height: 100vh;
+  margin: 0 auto;
+}
+.sidebar{
+  text-align: center;
+  font-size: 32px;
+  background-color: burlywood;
+  width: 400px;
+}
+.mainbody{
+  text-align: center;
+  background-color: rgb(185, 124, 182);
+  font-size: 28px;
+  width: 1000px;
+  height: 100vh;
+}
+.sideBtn{
+  background-color: rgb(57, 199, 44);
+  margin: 10px auto;
+  border-radius: 10px;
+  padding: 12px 36px;
+  display: block;
+}
+.btn{
+  margin: 200px 0;
+  border-radius: 10px;
+  padding: 10px 30px;
+  font-size: 20px;
+  background-color: rgb(23, 170, 255);
+}
+.fixed{
+  position: fixed;
+}
+.fullpage{
+  height: 100vh;
+}
+/* Accordian */
+.container {
+  margin: 0 auto;
+  max-width: 600px;
+}
